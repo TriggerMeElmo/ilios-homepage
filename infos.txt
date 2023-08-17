@@ -1,0 +1,8 @@
+TODOS:
+* Website-layout
+* Inhalte und Bilder
+* Impressum
+* Google Analytics -> Datenschutzerklärung
+* Hosting
+
+DONE:
